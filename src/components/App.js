@@ -7,7 +7,7 @@ import Register from "./Register";
 import ModuleDetail from "./ModuleDetail";  // Import ModuleDetail
 
 function App() {
-  return (
+  return ( 
     <div className="app">
       <Header />
       <Routes>

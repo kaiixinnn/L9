@@ -15,7 +15,7 @@ export default function Header() {
         />
       </Link>
 
-      <nav>
+      <nav> 
         <NavLink to="/" className={getClass}>
           Home
         </NavLink>

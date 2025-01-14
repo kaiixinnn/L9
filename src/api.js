@@ -50,3 +50,4 @@ export function getCategory(catId) {
 export function getCategories() {
   return categories.map(({ name, id }) => ({ name, id }));
 }
+ 

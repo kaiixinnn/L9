@@ -19,7 +19,7 @@ export default function Register() {
           <input type="text" name="name" ref={emailRef} />
         </label>
         <label>
-          Email:
+          Email: 
           <input type="text" name="email" ref={emailRef} />
         </label>
         <label>

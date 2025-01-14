@@ -17,5 +17,5 @@ export default function Home({ title }) {
       We offer six diploma programmes across a wide range of infocomm disciplines.
       </p>
     </div>
-  );
+  ); 
 }

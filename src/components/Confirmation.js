@@ -4,5 +4,5 @@ export default function Confirmation() {
       <h1>Thank You!</h1>
       <p>You're now registered for Red30 Tech.</p>
     </div>
-  );
+  ); 
 }

@@ -2,7 +2,7 @@ import { useParams } from "react-router-dom";
 import { getCategory } from "../api";
 
 export default function Diploma() {
-  const { diplomaId } = useParams();
+  const { diplomaId } = useParams(); 
   const diploma = getCategory(diplomaId);
 
   return (
@@ -18,5 +18,5 @@ export default function Diploma() {
         ))}
       </ul>
     </>
-  );
+  ); 
 }

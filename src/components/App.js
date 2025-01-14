@@ -3,7 +3,7 @@ import Home from "./Home";
 import Diplomas from "./Diplomas";  // Updated import
 import Diploma from "./Diploma";
 import Header from "./Header";
-import Register from "./Register";
+import Register from "./Register"; 
 import ModuleDetail from "./ModuleDetail";  // Import ModuleDetail
 
 function App() {
